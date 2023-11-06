@@ -12,7 +12,6 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kir4R00t&layout=compact"
-    media="(prefers-color-scheme: dark)"
   />
 </picture>
 

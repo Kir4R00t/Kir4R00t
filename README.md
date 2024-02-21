@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">In short, I am a young Polish student whose main hobby is programming</h3>
+<h3 align="center">In short, I am a young Polish student whose hobby is programming</h3>
 
 - 🔭 I’m working on **developing** my programming skills
 - 🌱 I’m focusing on learning **Python** however I know basics of many different languages (such as HTML, CSS, JS, PHP, SQL, C++) 

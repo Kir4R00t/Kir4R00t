@@ -7,7 +7,7 @@
 - 🔥 I strongly appreciate the **practicality** of the applications that I create
 - ⚡ Fun fact: **Currently I own 3 tarantulas**
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools that I use:</h3>
 <p align="center">
     <!-- Python -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer">

@@ -57,10 +57,12 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
+    <br><br> 
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kir4R00t&layout=compact"/>
 </p>
-
-
 
 <h3 align="center">Connect with me:</h3>
     <p align="center">
     <a href="https://discord.gg/419571860041105410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="419571860041105410" height="30" width="40" /></a></p>
+
+

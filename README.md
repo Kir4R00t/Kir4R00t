@@ -45,11 +45,11 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         </a>
+        <br><br> 
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kir4R00t&layout=compact"/>
     </p>
-<br><br> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kir4R00t&layout=compact"/>
-</a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

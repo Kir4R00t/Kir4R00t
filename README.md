@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">In short, I am a young Polish student whose hobby is programming</h3>
+<h3 align="center">In short, I am a young Polish student who dreams of becoming a programmer</h3>
 
 - 🔭 I’m working on **developing** my programming skills
 - 🌱 I’m focusing on learning **Python** however I know basics of many different languages (such as HTML, CSS, JS, PHP, SQL, C++) 
@@ -58,6 +58,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a>
     <br><br> 
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kir4R00t&layout=compact"/>
+    <!-- Github language stats-->
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kir4R00t&layout=compact"/>
 </p>
-

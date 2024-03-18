@@ -2,7 +2,7 @@
 <h3 align="center">In short, I am a young Polish student who dreams of becoming a programmer</h3>
 
 - 🔭 I’m working on **developing** my programming skills
-- 🌱 I’m focusing on learning **Python** however I know basics of many different languages (such as HTML, CSS, JS, PHP, SQL, C++) 
+- 🐍 I’m focusing on learning **Python** however I know basics of many different languages (such as HTML, CSS, JS, PHP, SQL, C++) 
 - 👯 I’m looking to **collaborate** on any cool project so that I can get even **more experienced** as a programmer
 - 🔥 I strongly appreciate the **practicality** of the applications that I create
 - ⚡ Fun fact: **Currently I own 3 tarantulas**
@@ -60,4 +60,7 @@
     <br><br> 
     <!-- Github language stats-->
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kir4R00t&layout=compact"/>
+    <br><br>
 </p>
+
+- 🌱 Currently I am working on a recipe management app (It will be very similar to supercook com)

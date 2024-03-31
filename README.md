@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">In short, I am a young Polish student who dreams of becoming a programmer</h3>
+<h3 align="center">In short, I am a highly motivated Polish student who dreams of becoming a programmer</h3>
 
 - 🔭 I’m working on **developing** my programming skills
-- 🐍 I’m focusing on learning **Python & Django** however I know basics of many different languages (such as HTML, CSS, JS, PHP, SQL, C++) 
+- 🐍 I’m focusing on learning **Java** and **Python** however I know basics of many different languages (such as C++, HTML, CSS, JS, PHP, SQL) 
 - 👯 I’m looking to **collaborate** on any cool project so that I can get even **more experienced** as a programmer
 - 🔥 I strongly appreciate the **practicality** of the applications that I create
-- ⚡ Fun fact: **Currently I own 3 tarantulas**
+- ⚡ Fun fact: **Currently I own 2 tarantulas**
 
 <h3 align="center">Languages and Tools that I use:</h3>
 <p align="center">

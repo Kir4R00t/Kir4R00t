@@ -9,6 +9,10 @@
 
 <h3 align="center">Languages and Tools that I use:</h3>
 <p align="center">
+    <!-- Java -->
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="90" height="90"/>
+    </a>
     <!-- Python -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>

@@ -67,4 +67,4 @@
     <br><br>
 </p>
 
-- 🌱 Currently I am working on a recipe management app (It will be very similar to supercook com). I'm creating it to expand my Django and database (MySQL) skills.
+- 🌱 Currently I am 100% committed to learning **Java**

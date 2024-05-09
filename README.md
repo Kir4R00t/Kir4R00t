@@ -2,7 +2,7 @@
 <h3 align="center">In short, I am a highly motivated Polish student who dreams of becoming a programmer</h3>
 
 - 🔭 I’m working on **developing** my programming skills
-- 🐍 I’m focusing on learning **Java** and **Python** however I know basics of many different languages (such as C++, HTML, CSS, JS, PHP, SQL) 
+- 🐍 I’m focusing on learning **Java** and **Python** however I know basics of many different languages & frameworks (such as Django, C++, C#, HTML, CSS, JS, PHP, SQL) 
 - 👯 I’m looking to **collaborate** on any cool project so that I can get even **more experienced** as a programmer
 - 🔥 I strongly appreciate the **practicality** of the applications that I create
 - ⚡ Fun fact: **Currently I own 2 tarantulas**

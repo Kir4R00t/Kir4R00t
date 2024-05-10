@@ -6,7 +6,7 @@
 - 👯 I’m looking to **collaborate** on any cool project so that I can get even **more experienced** as a programmer
 - 🔥 I strongly appreciate the **practicality** of the applications that I create
 - ⚡ Fun fact: **Currently I own 2 tarantulas**
-- 
+
 <h3 align="center">Languages and Tools that I use:</h3>
 <p align="center">
     <!-- Java -->

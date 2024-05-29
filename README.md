@@ -63,6 +63,6 @@
 </a>
     <br><br> 
     <!-- Github language stats-->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kir4R00t&layout=donut"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kir4R00t&layout=donut&&hide=lua"/>
     <br><br>
 </p>

@@ -4,10 +4,9 @@
 <h5 align="center">Check out links below</h5>
 
 <p align="center">
-    <!-- Discord invite link-->
   <a href="https://discord.com/users/419571860041105410"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-   <a href="https://github.com/Kir4R00t"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-    <a href="https://www.linkedin.com/in/your-profile-id">
+  <a href="https://github.com/Kir4R00t"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Kir4R00t?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://www.linkedin.com/in/your-profile-id">
   <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.kirar00t.site/">

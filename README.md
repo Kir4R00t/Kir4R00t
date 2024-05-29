@@ -49,20 +49,55 @@
 </p>
 
 ## My work
-<p align="left">
-<!-- KiraBot -->
 
-<a>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=KiraBot)](https://github.com/Kir4R00t/KiraBot)</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Kir4R00t/KiraBot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=KiraBot&theme=dark" alt="KiraBot">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Kir4R00t/kirar00t.site">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=kirar00t.site&theme=dark" alt="kirar00t.site">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Kir4R00t/GTAV_PrivateSessionMaker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=GTAV_PrivateSessionMaker&theme=dark" alt="GTAV_PrivateSessionMaker">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Kir4R00t/KiraEssentialz">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=KiraEssentialz&theme=dark" alt="KiraEssentialz">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Kir4R00t/EUI_KiraInstaller">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=EUI_KiraInstaller&theme=dark" alt="EUI_KiraInstaller">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Kir4R00t/DjangoWeatherAPP">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=DjangoWeatherAPP&theme=dark" alt="DjangoWeatherAPP">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Kir4R00t/KiraChaos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=KiraChaos&theme=dark" alt="KiraChaos">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Kir4R00t/BlackBox">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=BlackBox&theme=dark" alt="BlackBox">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- My website -->
-
-<a>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=kirar00t.site)](https://github.com/Kir4R00t/kirar00t.site)</a>
-
-<!-- GTAV Priv session maker -->
-
-<a>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=GTAV_PrivateSessionMaker)]([https://github.com/Kir4R00t/GTAV_PrivateSessionMaker])</a>
-
-<!-- Kira Essentialz-->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=KiraEssentialz)]([https://github.com/Kir4R00t/KiraEssentialz]])
-</p>

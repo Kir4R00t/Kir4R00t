@@ -1,68 +1,64 @@
-<h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">In short, I am a highly motivated Polish student who dreams of becoming a programmer</h3>
+## Introduction
 
+<h1 align="center">Hi 👋, I'm Przemek !</h1>
+<h5 align="center">Check out links below</h5>
+
+<p align="center">
+    <!-- Discord invite link-->
+  <a href="https://discord.com/users/419571860041105410"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+   <a href="https://github.com/Kir4R00t"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+    <a href="https://www.linkedin.com/in/your-profile-id">
+  <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.kirar00t.site/">
+  <img alt="Website" title=My Website" src="https://img.shields.io/badge/-Website-4CAF50?style=for-the-badge&logo=web&logoColor=white"/>
+</a>
+
+ </p>
+ 
+## Profile Views
+  <table>
+    <tr>
+      <td>
+         <a href="https://github.com/Kir4R00t"> <img src="https://komarev.com/ghpvc/?username=Kir4R00t&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+
+## Something about me
 - 🔭 I’m working on **developing** my programming skills
 - 🌱 I’m focusing on learning **Java** and **Python** however I know basics of many different languages & frameworks (such as Django, C++, C#, HTML, CSS, JS, PHP, SQL) 
 - 👯 I’m looking to **collaborate** on any cool project so that I can get even **more experienced** as a programmer
 - 🔥 I strongly appreciate the **practicality** of the applications that I create
 - ⚡ Fun fact: **Currently I own 2 tarantulas**
 
-<h3 align="center">Languages and Tools that I use:</h3>
+## Languages and Tools that I use
+
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=java,python,django,cpp,cs,git,linux,php,mysql,postgresql,html,css,js,docker"> </a> </p>
+
+## My Stats:
 <p align="center">
-    <!-- Java -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-</a>
-<!-- Python -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-</a>
-<!-- Django -->
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/>
-</a>
-<!-- C++ -->
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-</a>
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-</a>
-<!-- Linux -->
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
-</a>
-<!-- PHP -->
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>
-</a>
-<!-- PostgreSQL -->
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
-</a>
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-</a>
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-</a>
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-</a>
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-</a>
-<!-- Docker -->
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
-</a>
-    <br><br> 
-    <!-- Github language stats-->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kir4R00t&layout=donut&&hide=lua"/>
-    <br><br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kir4R00t&layout=donut&&hide=lua&theme=dark"/>
+
+## My activity on Github
+
+<p align="center">
+  <a href="https://github.com/Kir4R00t">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kir4R00t&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
 </p>
+
+## My work
+
+<!-- KiraBot -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=KiraBot)](https://github.com/Kir4R00t/KiraBot)
+
+<!-- My website -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=kirar00t.site)](https://github.com/Kir4R00t/kirar00t.site)
+
+<!-- GTAV Priv session maker -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=GTAV_PrivateSessionMaker)]([https://github.com/Kir4R00t/GTAV_PrivateSessionMaker])
+
+<!-- Kira Essentialz-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=KiraEssentialz)]([https://github.com/Kir4R00t/KiraEssentialz]])
+

@@ -18,14 +18,16 @@
  </p>
  
 ## Profile Views
-  <table>
-    <tr>
-      <td>
-         <a href="https://github.com/Kir4R00t"> <img src="https://komarev.com/ghpvc/?username=Kir4R00t&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
-
+  <center>
+    <table>
+      <tr>
+        <td>
+          <a href="https://github.com/Kir4R00t"> <img src="https://komarev.com/ghpvc/?username=Kir4R00t&style=for-the-badge&color=brightgreen"> </a>
+        </td>
+      </tr>
+    </table>
+  </center>
+  
 ## Something about me
 - 🔭 I’m working on **developing** my programming skills
 - 🌱 I’m focusing on learning **Java** and **Python** however I know basics of many different languages & frameworks (such as Django, C++, C#, HTML, CSS, JS, PHP, SQL) 

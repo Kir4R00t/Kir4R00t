@@ -81,7 +81,7 @@
   <tr>
     <td>
       <a href="https://github.com/Kir4R00t/Jason">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=EUI_KiraInstaller&theme=dark" alt="Jason">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=Jason&theme=dark" alt="Jason">
       </a>
     </td>
     <td>

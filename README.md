@@ -80,8 +80,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Kir4R00t/Jason">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=Jason&theme=dark" alt="Jason">
+      <a href="https://github.com/Kir4R00t/EpicDownloader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=EpicDownloader&theme=dark" alt="EpicDownloader">
       </a>
     </td>
     <td>

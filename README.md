@@ -31,9 +31,8 @@
 ## Something about me
 - 🔭 I’m working on **developing** my programming skills
 - 🌱 I’m focusing on learning **Java** and **Python** however I know basics of many different languages & frameworks (such as Django, C++, C#, HTML, CSS, JS, PHP, SQL) 
-- 👯 I’m looking to **collaborate** on any cool project so that I can get even **more experienced** as a programmer
 - 🔥 I strongly appreciate the **practicality** of the applications that I create
-- ⚡ Fun fact: **Currently I own 2 tarantulas**
+- ⚡ Fun fact: **Currently I own a tarantula**
 
 ## Languages and Tools that I use
 

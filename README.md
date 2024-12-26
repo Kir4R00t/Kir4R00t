@@ -29,10 +29,11 @@
   </center>
   
 ## Something about me
-- 🔭 I’m working on **developing** my programming skills
-- 🌱 I’m focusing on learning **Java** and **Python** however I know basics of many different languages & frameworks (such as Django, C++, C#, HTML, CSS, JS, PHP, SQL) 
+- 💻 Currently I am **employed as a Back-End dev** at OBR CTM/
+- 🌱 I’m focusing on specializing in **Python** however I am familiar with many different languages & frameworks (such as Java (SpringBoot), Django, C++, C#, HTML, CSS, JS, PHP, SQL) 
+- 🤓 I also have experience with other tools & technologies like: Linux, Git, Apache Nifi & Kafka, Opensearch, Docker, Kubernetes.
 - 🔥 I strongly appreciate the **practicality** of the applications that I create
-- ⚡ Fun fact: **Currently I own a tarantula**
+- ⚡ Fun fact: **I own a tarantula and I often visit my local shooting range :)**
 
 ## Languages and Tools that I use
 

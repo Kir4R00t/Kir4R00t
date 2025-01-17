@@ -43,6 +43,7 @@
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kir4R00t&layout=donut&&hide=lua&theme=dark"/>
 
+<!--  This is Empty probably because of github API issues
 ## My activity on Github
 
 <p align="center">
@@ -50,7 +51,7 @@
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kir4R00t&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
-
+-->
 
 <!--  TODO: Format this nicely later -> pick different repos
 

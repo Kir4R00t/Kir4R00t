@@ -29,7 +29,7 @@
   </center>
   
 ## Something about me
-- 💻 Currently I am **employed as a Back-End dev** at OBR CTM/
+- 💻 Currently I am **employed as a Back-End dev** at OBR CTM
 - 🌱 I’m focusing on specializing in **Python** however I am familiar with many different languages & frameworks (such as Java (SpringBoot), Django, C++, C#, HTML, CSS, JS, PHP, SQL) 
 - 🤓 I also have experience with other tools & technologies like: Linux, Git, Apache Nifi & Kafka, Opensearch, Docker, Kubernetes.
 - 🔥 I strongly appreciate the **practicality** of the applications that I create
@@ -50,6 +50,9 @@
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kir4R00t&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
+
+
+<!--  TODO: Format this nicely later -> pick different repos
 
 ## My work
 
@@ -103,4 +106,4 @@
     </td>
   </tr>
 </table>
-
+ -->

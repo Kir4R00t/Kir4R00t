@@ -15,8 +15,6 @@
     <img alt="Website" title="My Website" src="https://img.shields.io/badge/-Website-4CAF50?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
 </p>
-
-## Profile Views
 <p align="center">
   <a href="https://github.com/Kir4R00t" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Kir4R00t&style=for-the-badge&color=brightgreen" alt="Profile views"/>
@@ -24,7 +22,7 @@
 </p>
 
 ## Something about me
-- 💻 Currently I am **employed as a Software Developer** at OBR CTM
+- 💻 I'm a **Software Developer** employed for over a year now at [OBR CTM](https://ctm.gdynia.pl/)
 - 🌱 I’m focusing on specializing in **Python** however I am familiar with many different languages & frameworks (such as Java (SpringBoot), Django, C++, C#, HTML, CSS, JS, PHP, SQL) 
 - 🤓 I also have experience with other tools & technologies like: Linux, Git, Apache Nifi & Kafka, Opensearch, Docker, Kubernetes.
 - 🔥 I strongly appreciate the **practicality** of the applications that I create

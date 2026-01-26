@@ -22,7 +22,7 @@
 </p>
 
 ## Something about me
-- 💻 I'm a **Software Developer** employed for over a year now at [OBR CTM](https://ctm.gdynia.pl/)
+- 💻 I'm a **Junior Software Engineer** since july 2024 at [OBR CTM](https://ctm.gdynia.pl/)
 - 🌱 I’m focusing on specializing in **Python** however I am familiar with many different languages & frameworks (such as Java (SpringBoot), Django, C++, C#, HTML, CSS, JS, PHP, SQL) 
 - 🤓 I also have experience with other tools & technologies like: Linux, Git, Apache Nifi & Kafka, Opensearch, Docker, Kubernetes.
 - 🔥 I strongly appreciate the **practicality** of the applications that I create
@@ -31,7 +31,7 @@
 ## Languages and Tools that I use professionally
 <p>
   <a href="https://github.com/Kir4R00t" target="_blank">
-    <img alt="Professional stack icons" src="https://skillicons.dev/icons?i=python,java,linux,docker,k8s,git,postgresql,vscode,kafka,redhat,qt"/>
+    <img alt="Professional stack icons" src="https://skillicons.dev/icons?i=python,qt,java,linux,docker,k8s,git,postgresql,vscode,kafka,redhat"/>
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 ## Other stuff I use privately — familiar at a basic level
 <p>
   <a href="https://github.com/Kir4R00t" target="_blank">
-    <img alt="Private stack icons" src="https://skillicons.dev/icons?i=cpp,cs,django,raspberrypi,arch,php,mysql,html,css,js" />
+    <img alt="Private stack icons" src="https://skillicons.dev/icons?i=cpp,cs,django,raspberrypi,arch,php,mysql,html" />
   </a>
 </p>
 

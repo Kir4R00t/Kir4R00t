@@ -23,7 +23,7 @@
 
 ## Something about me
 - 💻 I'm a **Junior Software Engineer** since july 2024 at [OBR CTM](https://ctm.gdynia.pl/)
-- 🌱 I’m focusing on specializing in **Python** however I am familiar with many different languages & frameworks (such as Java (SpringBoot), Django, C++, C#, HTML, CSS, JS, PHP, SQL) 
+- 🌱 I’m focusing on specializing in **Python** however I am familiar with many different languages & frameworks (such as Java (SpringBoot), Django, Selenium, C++, HTML, SQL) 
 - 🤓 I also have experience with other tools & technologies like: Linux, Git, Apache Nifi & Kafka, Opensearch, Docker, Kubernetes.
 - 🔥 I strongly appreciate the **practicality** of the applications that I create
 - ⚡ Fun fact: **I own a tarantula and I often visit my local shooting range**

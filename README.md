@@ -22,9 +22,9 @@
 </p>
 
 ## Something about me
-- 💻 I'm a **Junior Software Engineer** since july 2024 at [OBR CTM](https://ctm.gdynia.pl/)
-- 🌱 I’m focusing on specializing in **Python** however I am familiar with many different languages & frameworks (such as Java (SpringBoot), Django, Selenium, C++, HTML, SQL) 
-- 🤓 I also have experience with other tools & technologies like: Linux, Git, Apache Nifi & Kafka, Opensearch, Docker, Kubernetes.
+- 💻 I'm a **Software Engineer** since july 2024 at [OBR CTM](https://ctm.gdynia.pl/)
+- 🌱 I’m focusing on specializing in **Python** however I am familiar with many different languages & frameworks (such as **Java (SpringBoot)**, **Selenium**, Django, C++, HTML, SQL) 
+- 🤓 I also have experience with other tools & technologies like: **Linux, Git, Docker**, Apache Nifi & Kafka, Opensearch, Kubernetes.
 - 🔥 I strongly appreciate the **practicality** of the applications that I create
 - ⚡ Fun fact: **I own a tarantula and I often visit my local shooting range**
 
@@ -45,7 +45,7 @@
 ## Other stuff I use privately — familiar at a basic level
 <p>
   <a href="https://github.com/Kir4R00t" target="_blank">
-    <img alt="Private stack icons" src="https://skillicons.dev/icons?i=cpp,cs,django,raspberrypi,arch,php,mysql,html" />
+    <img alt="Private stack icons" src="https://skillicons.dev/icons?i=selenium,django,raspberrypi,arch,php,mysql,html,cpp" />
   </a>
 </p>
 

@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/przemys%C5%82aw-sadowski-39266b297/" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kirar00t.site/" target="_blank">
+  <a href="https://www.kirahosting.fun/" target="_blank">
     <img alt="Website" title="My Website" src="https://img.shields.io/badge/-Website-4CAF50?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
 </p>

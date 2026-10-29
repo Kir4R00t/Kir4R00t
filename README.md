@@ -1,120 +1,218 @@
-<h1 align="center">Hi 👋, I'm Przemek !</h1>
-<h5 align="center">Check out links below</h5>
+<p align="center">
+  <a href="https://kirahosting.dev/">
+    <img src="./assets/profile-header.svg" alt="Przemysław Sadowski · Data Engineer &amp; Python Developer" width="100%" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://discord.com/users/419571860041105410" target="_blank">
-    <img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://discord.com/users/419571860041105410" title="Discord">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/discord.svg?color=%2330FA98" />
+      <img src="https://api.iconify.design/simple-icons/discord.svg?color=%23167A4B" alt="Discord" title="Discord" width="36" height="36" />
+    </picture>
   </a>
-  <a href="https://github.com/Kir4R00t" target="_blank">
-    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Kir4R00t?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Kir4R00t" title="GitHub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%2330FA98" />
+      <img src="https://api.iconify.design/simple-icons/github.svg?color=%23167A4B" alt="GitHub" title="GitHub" width="36" height="36" />
+    </picture>
   </a>
-  <a href="https://www.linkedin.com/in/przemys%C5%82aw-sadowski-39266b297/" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/przemys%C5%82aw-sadowski-39266b297/" title="LinkedIn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/devicon-plain/linkedin.svg?color=%2330FA98" />
+      <img src="https://api.iconify.design/devicon-plain/linkedin.svg?color=%23167A4B" alt="LinkedIn" title="LinkedIn" width="36" height="36" />
+    </picture>
   </a>
-  <a href="https://kirahosting.fun/" target="_blank">
-    <img alt="Website" title="My Website" src="https://img.shields.io/badge/-Website-4CAF50?style=for-the-badge&logo=web&logoColor=white"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Kir4R00t" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Kir4R00t&style=for-the-badge&color=brightgreen" alt="Profile views"/>
+  &nbsp;&nbsp;
+  <a href="https://kirahosting.dev/" title="Website">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/globe.svg?color=%2330FA98" />
+      <img src="https://api.iconify.design/lucide/globe.svg?color=%23167A4B" alt="Website" title="Website" width="36" height="36" />
+    </picture>
   </a>
 </p>
 
-## Something about me
-- 💻 I'm a **Software Engineer** since july 2024 at [OBR CTM](https://ctm.gdynia.pl/)
-- 🌱 I’m focusing on specializing in **Python** however I am familiar with many different languages & frameworks (such as **Java (SpringBoot)**, **Flask**, **Selenium**, Django, C++, HTML, SQL) 
-- 🤓 I also have experience with other tools & technologies like: **Linux, Git, Docker**, Apache Nifi & Kafka, Opensearch, Kubernetes.
-- 🔥 I strongly appreciate the **practicality** of the applications that I create
-- ⚡ Fun fact: **I own a tarantula and I often visit my local shooting range**
+I'm a **Data Engineer & Python Developer** working with **Python, SQL, data pipelines and system integrations**. My experience includes Apache NiFi ingestion flows, backend services and automation connecting APIs, databases and ERP systems.
 
-## Languages and Tools that I use professionally
+I'm also studying **Computer Science**. I like building tools I actually use, automating repetitive work and running my own services.
+
+## Tech stack
+
+### Python & data
+
 <p>
-  <a href="https://github.com/Kir4R00t" target="_blank">
-    <img alt="Professional stack icons" src="https://skillicons.dev/icons?i=python,qt,java,linux,docker,k8s,git,postgresql,vscode,kafka,redhat"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/python.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/python.svg?color=%23167A4B" alt="Python" title="Python" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/postgresql.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%23167A4B" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/apachekafka.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/apachekafka.svg?color=%23167A4B" alt="Apache Kafka" title="Apache Kafka" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/apachenifi.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/apachenifi.svg?color=%23167A4B" alt="Apache NiFi" title="Apache NiFi" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/carbon/json.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/carbon/json.svg?color=%23167A4B" alt="JSON" title="JSON" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/gis/geojson-file.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/gis/geojson-file.svg?color=%23167A4B" alt="GeoJSON" title="GeoJSON" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/api.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/mdi/api.svg?color=%23167A4B" alt="REST APIs" title="REST APIs" width="48" height="48" />
+  </picture>
 </p>
+
+JOLT for JSON transformations.
+
+### Infrastructure & hosting
 
 <p>
-  <img alt="GeoJSON" title="GeoJSON" src="https://img.shields.io/badge/GeoJSON-000000?style=for-the-badge&logo=openstreetmap&logoColor=white"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/linux.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/linux.svg?color=%23167A4B" alt="Linux" title="Linux" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/redhat.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/redhat.svg?color=%23167A4B" alt="Red Hat / RHEL" title="Red Hat / RHEL" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/docker.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/docker.svg?color=%23167A4B" alt="Docker" title="Docker" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/git.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/git.svg?color=%23167A4B" alt="Git" title="Git" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/devicon-plain/azuredevops.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/devicon-plain/azuredevops.svg?color=%23167A4B" alt="Azure DevOps" title="Azure DevOps" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/cloudflare.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/cloudflare.svg?color=%23167A4B" alt="Cloudflare R2 object storage" title="Cloudflare R2 object storage" width="48" height="48" />
+  </picture>
+  &nbsp;
 </p>
+
+VPS setup & administration · Cloudflare R2 object storage
+
+Azure DevOps · Boards / Repos / PRs / CI/CD
+
+### Other tools (less used)
+
 <p>
-  <img alt="GeoJSON" title="GeoJSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=openstreetmap&logoColor=white"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/devicon-plain/java.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/devicon-plain/java.svg?color=%23167A4B" alt="Java" title="Java" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/springboot.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/springboot.svg?color=%23167A4B" alt="Spring Boot" title="Spring Boot" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/qt.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/qt.svg?color=%23167A4B" alt="Qt / QML" title="Qt / QML" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/odoo.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/odoo.svg?color=%23167A4B" alt="Odoo 14 &amp; 18" title="Odoo 14 &amp; 18" width="48" height="48" />
+  </picture>
+  
 </p>
 
-## Other stuff I use privately — familiar at a basic level
+## Professional experience
+
+**Junior Software Engineer · PGZ OBR CTM S.A.**<br>
+July 2024 – May 2026 · Gdynia, Poland
+
+- **Data pipelines:** built Apache NiFi ingestion flows with Python and JOLT to transform JSON and GeoJSON data; worked with MinIO, Kafka and OpenSearch in a data platform.
+- **Python & backend:** developed and maintained Python and Java / Spring Boot services, integrating external systems through REST APIs.
+- **Odoo development:** built custom modules for Odoo 14 and 18 Community, wrote migration scripts and connected Odoo to external APIs and SQL Server to automate warehouse, project and timesheet data synchronization.
+- **Team & delivery:** worked in a Scrum team using Linux / RHEL, Docker, Kubernetes, Git and Azure DevOps.
+
+## Personal projects & exploration
+
 <p>
-  <a href="https://github.com/Kir4R00t" target="_blank">
-    <img alt="Private stack icons" src="https://skillicons.dev/icons?i=selenium,django,raspberrypi,arch,php,mysql,html,cpp" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/selenium.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/selenium.svg?color=%23167A4B" alt="Selenium" title="Selenium" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/django.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/django.svg?color=%23167A4B" alt="Django" title="Django" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/raspberrypi.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/raspberrypi.svg?color=%23167A4B" alt="Raspberry Pi" title="Raspberry Pi" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/archlinux.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/archlinux.svg?color=%23167A4B" alt="Arch Linux" title="Arch Linux" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/mysql.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/mysql.svg?color=%23167A4B" alt="MySQL" title="MySQL" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/cplusplus.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/cplusplus.svg?color=%23167A4B" alt="C++" title="C++" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/html5.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/html5.svg?color=%23167A4B" alt="HTML5" title="HTML5" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/php.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/php.svg?color=%23167A4B" alt="PHP" title="PHP" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/opensearch.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/opensearch.svg?color=%23167A4B" alt="OpenSearch" title="OpenSearch" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/devicon-plain/microsoftsqlserver.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/devicon-plain/microsoftsqlserver.svg?color=%23167A4B" alt="SQL Server" title="SQL Server" width="48" height="48" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/kubernetes.svg?color=%2330FA98" />
+    <img src="https://api.iconify.design/simple-icons/kubernetes.svg?color=%23167A4B" alt="Kubernetes" title="Kubernetes" width="48" height="48" />
+  </picture>
+  &nbsp;
 </p>
 
-## My Stats:
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kir4R00t&layout=donut&hide=lua&theme=dark"/>
-  </a>
-</p>
-
-<!--  This is Empty probably because of GitHub API issues
-## My activity on Github
-<p align="center">
-  <a href="https://github.com/Kir4R00t" target="_blank">
-    <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kir4R00t&theme=dark&hide_border=true&stroke=f53b3b"/>
-  </a> 
-</p>
--->
-
-<!--  TODO: Format this nicely later -> pick different repos
-## My work
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Kir4R00t/KiraBot" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=KiraBot&theme=dark" alt="KiraBot">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Kir4R00t/kirar00t.site" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=kirar00t.site&theme=dark" alt="kirar00t.site">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Kir4R00t/GTAV_PrivateSessionMaker" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=GTAV_PrivateSessionMaker&theme=dark" alt="GTAV_PrivateSessionMaker">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Kir4R00t/KiraEssentialz" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=KiraEssentialz&theme=dark" alt="KiraEssentialz">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Kir4R00t/EpicDownloader" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=EpicDownloader&theme=dark" alt="EpicDownloader">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Kir4R00t/DjangoWeatherAPP" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=DjangoWeatherAPP&theme=dark" alt="DjangoWeatherAPP">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Kir4R00t/KiraChaos" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=KiraChaos&theme=dark" alt="KiraChaos">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Kir4R00t/BlackBox" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kir4R00t&repo=BlackBox&theme=dark" alt="BlackBox">
-      </a>
-    </td>
-  </tr>
-</table>
--->
+This is the stuff that I either explored myself or done some work for university or my job.
